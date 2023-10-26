@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvaluacionAndroid</string>
+    <string name="number_card">Número de la tarjeta</string>
+    <string name="bank">Banco</string>
+    <string name="titular_de_la_tarjeta">Titular de la tarjeta</string>
+    <string name="fecha_de_expiracion">Fecha de expiracion</string>
+    <string name="cvv">CVV</string>
+    <string name="generar_cvv">Generar CVV</string>
+</resources>
